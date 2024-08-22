@@ -1,6 +1,6 @@
 ## Olá! Eu sou Francismário Coelho e Silva 👋
 
-### Desenvolvedor Full Stack Pleno | Java & Angular | Entusiasta React | Iniciando Estudos em DevOps
+### Desenvolvedor Full Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
